@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @borodindaniil
+-- 👋 Hi, I’m @borodindaniil
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning QA
 - 💞️ I’m looking to collaborate on 
