@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning QA
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me [t.me @borodindaniil] (https://t.me/borodindaniil)
+- 📫 How to reach me https://t.me/borodindaniil
 
 <!---
 borodindaniil/borodindaniil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
