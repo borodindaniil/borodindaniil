@@ -1,5 +1,7 @@
+## About me:
+
 - Hi, I’m @borodindaniil
-- How to reach me https://t.me/borodindaniil
+- [My telegram](https://t.me/borodindaniil)
 
 <!---
 borodindaniil/borodindaniil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
