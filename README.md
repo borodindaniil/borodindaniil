@@ -1,6 +1,6 @@
 ## About me:
 
-- Hi, I’m @borodindaniil
+- Hi, I’m Daniil Borodin
 - [My telegram](https://t.me/borodindaniil)
 
 <!---
